@@ -1,13 +1,19 @@
 import Expo from 'expo';
 import React, {Component} from 'react';
-import { StyleSheet, Text, Image, View } from 'react-native';
+import { StyleSheet, Text, Image, View, TouchableOpacity } from 'react-native';
 import { BigButton } from './components/bigButton';
+
 
 class App extends Component {
   onPress = () => {
     console.log('onpress is a function now, are you happy?')
   }
   render() {
+    let button = (
+      <TouchableOpacity style={styles.button} onpress={this.onPress}>
+        <Text>hiiii</Text>
+      </TouchableOpacity>
+    )
     return (
       <View style={styles.container}>
         <Image
@@ -19,6 +25,7 @@ class App extends Component {
           title="5 min"
           accessibilityLabel="A 5 minute meditation timer"
           onPress={this.onPress} />
+        {button}
       </View>
     );
   }
@@ -36,6 +43,15 @@ const styles = StyleSheet.create({
     flex:1,
     maxWidth: '20%',
     maxHeight: '20%',
+  },
+  button: {
+    height: 80,
+    marginTop: 5,
+    paddingHorizontal: 10,
+    backgroundColor: 'yellow',
+    minWidth: '80%',
+    alignItems: 'center',
+    justifyContent: 'center'
   }
 });
 

@@ -13,6 +13,7 @@ const BigButton = (props) => {
       <Button
         onPress={props.onPress}
         title={props.title}
+        time={props.time}
         // color={props.color}
         accessibilityLabel={props.accessibilityLabel}
       />
