@@ -3,6 +3,7 @@ node_modules/**/*
 .expo/*
 npm-debug.*
 assets/holdingPattern
+planning.md
 
 # Logs
 logs
