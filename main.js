@@ -2,15 +2,20 @@ import Expo from 'expo';
 import React, {Component} from 'react';
 import { StyleSheet, Text, Image, View, TouchableOpacity } from 'react-native';
 import { BigButton } from './components/bigButton';
+import Timer from './components/Timer'
 
 
 class App extends Component {
+  constructor() {
+    super()
+    this.onPress = this.onPress.bind(this)
+  }
   onPress = () => {
     console.log('onpress is a function now, are you happy?')
   }
   render() {
     let button = (
-      <TouchableOpacity style={styles.button} onpress={this.onPress}>
+      <TouchableOpacity style={styles.button} onpress={() => this.onPress}>
         <Text>hiiii</Text>
       </TouchableOpacity>
     )
@@ -26,6 +31,7 @@ class App extends Component {
           accessibilityLabel="A 5 minute meditation timer"
           onPress={this.onPress} />
         {button}
+        <Timer />
       </View>
     );
   }
