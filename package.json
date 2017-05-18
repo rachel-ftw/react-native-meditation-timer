@@ -1,15 +1,20 @@
 {
   "name": "just-sit",
-  "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null,
+  "version": "0.0.1",
+  "description": "Just Sit: A Simple Meditation Timer built with React Native and Redux",
+  "keywords": ["React Native", "React", "Redux", "meditation", "timer"],
+  "homepage": "https://github.com/rachel-ftw/react-native-meditation-timer",
+  "bugs": {
+    "url" : "https://github.com/rachel-ftw/react-native-meditation-timer/issues",
+    "email" : "rachel@rachelralston.com"
+  },
+  "author": "Rachel Ralston <rachel@rachelralston.com> (http://www.rachelralston.com)",
   "private": true,
   "main": "main.js",
   "dependencies": {
     "expo": "16.0.0",
     "react": "16.0.0-alpha.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
-    "react-native-pages": "^0.4.0",
     "react-redux": "^5.0.4",
     "redux": "^3.6.0"
   }
