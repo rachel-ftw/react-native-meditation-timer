@@ -45,13 +45,20 @@ const userReducer = (state=userDefaults, action) => {
 
 const timerDefaults = [{id: 1, meditation_time: 5}]
 const timersReducer = (state=timerDefaults, action) => {
-  // console.log('spread state', JSON.stringify(state.push('hi')))
   switch (action.type) {
     case 'ADD_TIMER':
-      state = state.push(action.payload)
+      state = [...state, action.payload]
       break;
     case 'DELETE_TIMER':
-      state = state.filter
+      state = state.filter(timer => timer.id !== action.payload.id)
+      break;
+    case 'EDIT_TIMER':
+      state = state.map(timer =>
+        timer.id === action.payload.id
+          ? {...timer, meditation_time: action.payload.meditation_time}
+          : timer
+        )
+      break;
   }
   return state
 }
@@ -74,6 +81,9 @@ class App extends Component {
     this.store.dispatch({type: "CHANGE_NAME", payload: "Kato"})
     this.store.dispatch({type: "CHANGE_AGE", payload: 35})
     this.store.dispatch({type: "ADD_TIMER", payload: {id: 2, meditation_time: 15}})
+    this.store.dispatch({type: "ADD_TIMER", payload: {id: 3, meditation_time: 327}})
+    this.store.dispatch({type: "DELETE_TIMER", payload: {id: 3}})
+    this.store.dispatch({type: "EDIT_TIMER", payload: {id: 2, meditation_time: 2}})
 
     return (
       <Provider store={this.store}>
