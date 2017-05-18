@@ -84,7 +84,7 @@ class App extends Component {
     this.store.dispatch({type: "ADD_TIMER", payload: {id: 3, meditation_time: 327}})
     this.store.dispatch({type: "DELETE_TIMER", payload: {id: 3}})
     this.store.dispatch({type: "EDIT_TIMER", payload: {id: 2, meditation_time: 2}})
-
+    console.log('!!!!!!!!!!', this.store)
     return (
       <Provider store={this.store}>
         <View style={styles.container}>
