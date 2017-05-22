@@ -1,0 +1,3 @@
+rootProject.name = 'justSit'
+
+include ':app'
