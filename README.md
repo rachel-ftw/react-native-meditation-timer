@@ -11,7 +11,7 @@ Work in Progress...
 
 ---
 
-###Wk 2: 5/22
+### Wk 2: 5/22
 
 **Just Sit**
 - [ ] complete UX and front end
@@ -23,7 +23,7 @@ Work in Progress...
 - [ ] Apply to 10 jobs
 - [ ] Journal Daily (below)
 
-###Wk 1: 5/15
+### Wk 1: 5/15
 
 **Just Sit**
 - [x] Understand React Native
