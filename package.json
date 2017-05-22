@@ -12,10 +12,18 @@
   "private": true,
   "main": "main.js",
   "dependencies": {
-    "expo": "16.0.0",
     "react": "16.0.0-alpha.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
     "react-redux": "^5.0.4",
     "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "1.9.2",
+    "jest": "20.0.3",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
   }
 }
