@@ -17,7 +17,7 @@ export default class NewTimerContainer extends Component {
         <View style={styles.logoContainer}>
           <Image
             style={styles.logo}
-            source={require('../assets/icons/lotus.png')}
+            source={require('../images/icons/lotus.png')}
           />
         <Text style={styles.title}>Create a New Meditation Timer</Text>
         </View>
