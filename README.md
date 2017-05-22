@@ -9,9 +9,35 @@ Work in Progress...
   - React Native
   - Redux
 
+---
+
+###Wk 2: 5/22
+
+**Just Sit**
+- [ ] complete UX and front end
+- [ ] take a react native course
+- [ ] decide your data structures
+- [ ] wire up redux
+**General**
+- [ ] Apply to 10 jobs
+- [ ] Journal Daily (below)
+
+###Wk 1: 5/15
+
+**Just Sit**
+- [x] Understand React Native
+- [x] Understand Redux
+- [x] Practice React Patterns
+- [x] Get React Native running on my machine
+- [x] Create one working page
+**General**
+- [x] Apply to 10 jobs
+
 ## Development Journal
 
 ---
+**May 22nd, 2017 Monday**
+Toward the end of last week I got a bit ahead of myself.  Today I'm rolling back the project and going through in a more methodical way. First: make the front end. Second: make the logic & wire up redux.  Having a process helps me to focus, if ADD wins then I end up with a half working jumble.
 
 **May 17th, 2017 Wednesday**
 

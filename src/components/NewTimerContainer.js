@@ -1,11 +1,19 @@
 import React, { Component } from 'react'
-import { View, Text, StyleSheet, Image } from 'react-native'
+import {
+  View,
+  Text,
+  StyleSheet,
+  Image,
+  KeyboardAvoidingView,
+  StatusBar
+} from 'react-native'
 import NewTimerForm from './NewTimerForm'
 
-export default class Login extends Component {
+export default class NewTimerContainer extends Component {
   render() {
     return (
-      <View style={styles.container}>
+      <KeyboardAvoidingView behavior="padding" style={styles.container}>
+        <StatusBar barStyle="light-content" />
         <View style={styles.logoContainer}>
           <Image
             style={styles.logo}
@@ -16,7 +24,7 @@ export default class Login extends Component {
         <View style={styles.formContainer}>
           <NewTimerForm />
         </View>
-      </View>
+      </KeyboardAvoidingView>
     )
   }
 }

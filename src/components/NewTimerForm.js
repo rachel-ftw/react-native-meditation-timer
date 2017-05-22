@@ -4,28 +4,32 @@ import {
   View,
   TextInput,
   TouchableOpacity,
-  Text,
-  KeyboardAvoidingView
+  Text
 } from 'react-native'
 
 export default class NewTimerForm extends Component {
   render() {
     return (
-      <KeyboardAvoidingView behavior="padding" style={styles.container}>
+      <View style={styles.container}>
         <TextInput
           placeholder="Timer Name"
           placeholderTextColor='rgba(255,255,255,0.5)'
+          returnKeyType="next"
+          onSubmitEditing={() => this.minutesInput.focus()}
           style={styles.input}
         />
         <TextInput
           placeholder="Time In Minutes"
           placeholderTextColor='rgba(255,255,255,0.5)'
+          returnKeyType="go"
           style={styles.input}
+          keyboardType={'numeric'}
+          ref={(input) => this.minutesInput = input}
         />
         <TouchableOpacity style={styles.submitButton}>
           <Text style={styles.submitButtonText}>SUBMIT</Text>
         </TouchableOpacity>
-      </KeyboardAvoidingView>
+      </View>
     )
   }
 }
