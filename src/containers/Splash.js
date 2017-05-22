@@ -7,9 +7,7 @@ export const Splash = (props) => {
       <View style={styles.titleWrapper}>
         <Text style={styles.title}>JUST SIT</Text>
       </View>
-
       <Text style={styles.subtitle}>Meditation Timer</Text>
-
     </View>
   )
 }
