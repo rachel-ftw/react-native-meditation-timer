@@ -46,16 +46,16 @@ I had an interview today and spent much of my time applying to jobs and doing bu
 **Monday May 22nd, 2017:**
 Toward the end of last week I got a bit ahead of myself.  Today I'm rolling back the project and going through in a more methodical way. First: make the front end. Second: make the logic & wire up redux.  Having a process helps me to focus, if ADD wins then I end up with a half working jumble.
 
-- [ ] 1. [hack the hood](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
-- [ ] 2. [kink.com operations engineer](http://jobs.kink.com/)
-- [ ] 3. [Pivotal: graduate software developer](https://boards.greenhouse.io/pivotalsoftware/jobs/701993#.WSYc6xPytTZ)
+- [ ] 1. [Hack the Hood: Technical Fellow](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
+- [ ] 2. [kink.com: Operations Engineer](http://jobs.kink.com/)
+- [ ] 3. [Pivotal: Graduate Software Developer](https://boards.greenhouse.io/pivotalsoftware/jobs/701993#.WSYc6xPytTZ)
 - [ ] 4. [Grammarly: Software Engineer, Web UI](https://www.grammarly.com/jobs/engineering/software-engineer-web-ui?gh_jid=476589)
 - [ ] 5. [IDEO.org: Design Lead - Technology NYC](https://boards.greenhouse.io/ideoorg/jobs/639374?gh_src=6a7v8f1#.WSYd0BPytTY)
 - [ ] 6. [IDEO.com: Interaction Designer and Developer](https://www.ideo.com/jobs/548842)
-- [ ] 7. [Common Networks: Software Engineer] (https://jobs.lever.co/commonwealthnetworks/44185ed0-e26d-403d-844b-7e3e9c60077b)
+- [ ] 7. [Common Networks: Software Engineer](https://jobs.lever.co/commonwealthnetworks/44185ed0-e26d-403d-844b-7e3e9c60077b)
 - [ ] 8. [Chewse: Software Engineer](https://www.chewse.com/jobs/full-stack-engineer-2/)
 - [ ] 9. [AMV: Jr Rails Developer](https://betalist.com/jobs/95643-jr-junior-ruby-on-rails-developer-at-goamv)
-- [ ] 10. [ArtSquare: front end engineer](https://angel.co/artsquare-1/jobs/212481-senior-front-end-engineer)
+- [ ] 10. [ArtSquare: Front End Engineer](https://angel.co/artsquare-1/jobs/212481-senior-front-end-engineer)
 
 ---
 
