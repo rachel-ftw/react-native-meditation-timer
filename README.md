@@ -20,10 +20,8 @@ Work in Progress...
 - [ ] wire up redux
 
 **General**
-- [ ] Apply to 10 jobs
-  - [ ] [hack the hood](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
 - [ ] Journal Daily (below)
-
+- [ ] Apply to 10 jobs
 ### Wk 1: 5/15
 
 **Just Sit**
@@ -38,9 +36,28 @@ Work in Progress...
 
 ## Development Journal
 
+**Wednesday May 24rd, 2017:**
+I stayed out too late last night, a rare occurrence, but suffered the consequences in the morning. My brain was fuzzy af and I couldn't bring myself to be very useful, despite hours of trying. By the grace of coffee I survived until lunch, when I regained consciousness as a human. Once my brain agreed to cooperate, I had a great afternoon completing a couple of the screens of the app and starting to understand navigation in the React Native world.
+Adventures around every corner.
+
+**Tuesday May 23rd, 2017:**
+I had an interview today and spent much of my time applying to jobs and doing busy work to support that process.  It is occasionally nice to take a break from coding to do admin.
+
 **Monday May 22nd, 2017:**
 Toward the end of last week I got a bit ahead of myself.  Today I'm rolling back the project and going through in a more methodical way. First: make the front end. Second: make the logic & wire up redux.  Having a process helps me to focus, if ADD wins then I end up with a half working jumble.
 
+- [ ] 1. [hack the hood](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
+- [ ] 2. [kink.com operations engineer](http://jobs.kink.com/)
+- [ ] 3. [Pivotal: graduate software developer](https://boards.greenhouse.io/pivotalsoftware/jobs/701993#.WSYc6xPytTZ)
+- [ ] 4. [Grammarly: Software Engineer, Web UI](https://www.grammarly.com/jobs/engineering/software-engineer-web-ui?gh_jid=476589)
+- [ ] 5. [IDEO.org: Design Lead - Technology NYC](https://boards.greenhouse.io/ideoorg/jobs/639374?gh_src=6a7v8f1#.WSYd0BPytTY)
+- [ ] 6. [IDEO.com: Interaction Designer and Developer](https://www.ideo.com/jobs/548842)
+- [ ] 7. [Common Networks: Software Engineer] (https://jobs.lever.co/commonwealthnetworks/44185ed0-e26d-403d-844b-7e3e9c60077b)
+- [ ] 8. [Chewse: Software Engineer](https://www.chewse.com/jobs/full-stack-engineer-2/)
+- [ ] 9. [AMV: Jr Rails Developer](https://betalist.com/jobs/95643-jr-junior-ruby-on-rails-developer-at-goamv)
+- [ ] 10. [ArtSquare: front end engineer](https://angel.co/artsquare-1/jobs/212481-senior-front-end-engineer)
+
+---
 
 **Wednesday May 17th, 2017:**
 Feeling proud. Picked up React Native for the first time on Monday. Started looking at redux at 4pm yesterday. Today I got basic information to pass through multiple reducers. It doesn't have much of a front end, but it's working. Months ago I wouldn't have known how to Frankenstein my way through this, I would have gotten blocked.  Today I was able to go through all the different tutorials, pull out the parts that made sense and concoct something that fit my project.
