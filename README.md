@@ -14,14 +14,16 @@ Work in Progress...
 ### Wk 2: 5/22
 
 **Just Sit**
-- [ ] complete UX and front end
-- [ ] take a react native course
-- [ ] decide your data structures
+- [x] complete UX and front end
+- [x] take a react native course
+- [xgst] decide your data structures
 - [ ] wire up redux
 
 **General**
-- [ ] Journal Daily (below)
-- [ ] Apply to 10 jobs
+- [x] Journal Daily (below)
+- [x] Apply to 10 jobs
+
+
 ### Wk 1: 5/15
 
 **Just Sit**
@@ -36,6 +38,9 @@ Work in Progress...
 
 ## Development Journal
 
+**Thursday May 25th, 2017:**
+Beasted research and job applications today.
+
 **Wednesday May 24rd, 2017:**
 I stayed out too late last night, a rare occurrence, but suffered the consequences in the morning. My brain was fuzzy af and I couldn't bring myself to be very useful, despite hours of trying. By the grace of coffee I survived until lunch, when I regained consciousness as a human. Once my brain agreed to cooperate, I had a great afternoon completing a couple of the screens of the app and starting to understand navigation in the React Native world.
 Adventures around every corner.
@@ -46,16 +51,16 @@ I had an interview today and spent much of my time applying to jobs and doing bu
 **Monday May 22nd, 2017:**
 Toward the end of last week I got a bit ahead of myself.  Today I'm rolling back the project and going through in a more methodical way. First: make the front end. Second: make the logic & wire up redux.  Having a process helps me to focus, if ADD wins then I end up with a half working jumble.
 
-- [ ] 1. [Hack the Hood: Technical Fellow](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
-- [ ] 2. [kink.com: Operations Engineer](http://jobs.kink.com/)
-- [ ] 3. [Pivotal: Graduate Software Developer](https://boards.greenhouse.io/pivotalsoftware/jobs/701993#.WSYc6xPytTZ)
-- [ ] 4. [Grammarly: Software Engineer, Web UI](https://www.grammarly.com/jobs/engineering/software-engineer-web-ui?gh_jid=476589)
-- [ ] 5. [IDEO.org: Design Lead - Technology NYC](https://boards.greenhouse.io/ideoorg/jobs/639374?gh_src=6a7v8f1#.WSYd0BPytTY)
-- [ ] 6. [IDEO.com: Interaction Designer and Developer](https://www.ideo.com/jobs/548842)
-- [ ] 7. [Common Networks: Software Engineer](https://jobs.lever.co/commonwealthnetworks/44185ed0-e26d-403d-844b-7e3e9c60077b)
-- [ ] 8. [Chewse: Software Engineer](https://www.chewse.com/jobs/full-stack-engineer-2/)
-- [ ] 9. [AMV: Jr Rails Developer](https://betalist.com/jobs/95643-jr-junior-ruby-on-rails-developer-at-goamv)
-- [ ] 10. [ArtSquare: Front End Engineer](https://angel.co/artsquare-1/jobs/212481-senior-front-end-engineer)
+- [x] 1. [Hack the Hood: Technical Fellow](http://www.hackthehood.org/careers-blog/technical-teaching-fellow)
+- [x] 2. [kink.com: Operations Engineer](http://jobs.kink.com/)
+- [x] 3. [Pivotal: Graduate Software Developer](https://boards.greenhouse.io/pivotalsoftware/jobs/701993#.WSYc6xPytTZ)
+- [x] 4. [Grammarly: Software Engineer, Web UI](https://www.grammarly.com/jobs/engineering/software-engineer-web-ui?gh_jid=476589)
+- [x] 5. [IDEO.org: Design Lead - Technology NYC](https://boards.greenhouse.io/ideoorg/jobs/639374?gh_src=6a7v8f1#.WSYd0BPytTY)
+- [x] 6. [IDEO.com: Interaction Designer and Developer](https://www.ideo.com/jobs/548842)
+- [x] 7. [Common Networks: Software Engineer](https://jobs.lever.co/commonwealthnetworks/44185ed0-e26d-403d-844b-7e3e9c60077b)
+- [x] 8. [Chewse: Software Engineer](https://www.chewse.com/jobs/full-stack-engineer-2/)
+- [x] 9. [AMV: Jr Rails Developer](https://betalist.com/jobs/95643-jr-junior-ruby-on-rails-developer-at-goamv)
+- [x] 10. [ArtSquare: Front End Engineer](https://angel.co/artsquare-1/jobs/212481-senior-front-end-engineer)
 
 ---
 
