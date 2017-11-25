@@ -16,7 +16,7 @@ Work in Progress...
 **Just Sit**
 - [x] complete UX and front end
 - [x] take a react native course
-- [xgst] decide your data structures
+- [xt] decide your data structures
 - [ ] wire up redux
 
 **General**
