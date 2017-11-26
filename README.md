@@ -16,8 +16,11 @@ Work in Progress...
 **Just Sit**
 - [x] complete UX and front end
 - [x] take a react native course
+<<<<<<< HEAD
 - [xt] decide your data structures
 - [ ] wire up redux
+- [x] decide your data structures
+- [ ] wire up redux (50% complete, got half way down this rabbit hole, then decided to refactor, so it's not complete)
 
 **General**
 - [x] Journal Daily (below)
